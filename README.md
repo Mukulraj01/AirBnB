@@ -85,7 +85,7 @@ Working on these aspects related to business or real-world applications of how t
 - Property Price highly depends on the **neighbourhood**, the location where it is situated. `Downtown` in seattle has **highest rates**.
 - The most **popular house size** in Seattle are houses for `2 or 4 persons`. 
 - Tourist prefer to rent an entire house over a private room and a shared room. 
-- `Number of bedrooms` is the **most influencing criteria** for *price prediction*.
+
 
 
 
