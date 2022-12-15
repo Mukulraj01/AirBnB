@@ -45,6 +45,8 @@ Within the download you'll find the following directories and files.
 ```text
 AirBnB-Data-Analysis/
 ├── airbnb-analysis.ipynb
+├──calendar_seattle.csv
+├──listings_seattle.csv
 ├── README.md
 ├── reviews_seattle.csv
 ├── seattle.zip
