@@ -33,9 +33,6 @@ This repo contains all of the above mentioned steps in `airbnb-analysis.ipynb`.
 In order to be able to execute your own python statements follow this command to install all requirments:<br>
 - `pip install -r requirements.txt`
 
-Two quick start options are available:
-- [Download the latest release.](https://github.com/s-nilesh/AirBnB-Data-Analysis/archive/master.zip)
-- Clone the repo: `git clone https://github.com/s-nilesh/AirBnB-Data-Analysis.git`
 
 
 ## File descriptions
