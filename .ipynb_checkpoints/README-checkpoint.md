@@ -1,6 +1,6 @@
 # AirBnB Data Analysis for Seattle
 
-I have written a blog post for this project, you can have a look at it [here](https://towardsdatascience.com/analysis-price-modeling-and-prediction-airbnb-data-for-seattle-2016-17-152791cbae0a)
+
 
 <img src='./visualizations/airbnb_indoor.jpg'>
 
@@ -25,7 +25,6 @@ This repo contains all of the above mentioned steps in `airbnb-analysis.ipynb`.
 - [File descriptions](#file-descriptions)
 - [Motivation](#motivation)
 - [Results](#results)
-- [Creator](#creator)
 - [Thanks](#thanks)
 
 
@@ -34,9 +33,6 @@ This repo contains all of the above mentioned steps in `airbnb-analysis.ipynb`.
 In order to be able to execute your own python statements follow this command to install all requirments:<br>
 - `pip install -r requirements.txt`
 
-Two quick start options are available:
-- [Download the latest release.](https://github.com/s-nilesh/AirBnB-Data-Analysis/archive/master.zip)
-- Clone the repo: `git clone https://github.com/s-nilesh/AirBnB-Data-Analysis.git`
 
 
 ## File descriptions
@@ -89,13 +85,6 @@ Working on these aspects related to business or real-world applications of how t
 - Property Price highly depends on the **neighbourhood**, the location where it is situated. `Downtown` in seattle has **highest rates**.
 - The most **popular house size** in Seattle are houses for `2 or 4 persons`. 
 - Tourist prefer to rent an entire house over a private room and a shared room. 
-- `Number of bedrooms` is the **most influencing criteria** for *price prediction*.
-
-## Creator
-
-**Nilesh Sonawane**
-
-- <https://github.com/s-nilesh>
 
 
 ## Thanks
